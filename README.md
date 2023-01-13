@@ -69,4 +69,4 @@ JupyterLab:<br>
 Make sure to update on save options within JupyterLab: Settings > Advanced Settings Editor > JSON Settings Editor > Jupyterlab Code Formatter > Add the following to User Preferences:<br>
 `{ "formatOnSave": true }`
 
-<Testing git submodule>
+<Testing git submodule-2>
