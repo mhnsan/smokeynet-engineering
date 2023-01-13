@@ -68,3 +68,5 @@ JupyterLab:<br>
 [JupyterLab Code Formatter](https://jupyterlab-code-formatter.readthedocs.io/en/latest/) has beeng added by default with black and isort formatting.<br>
 Make sure to update on save options within JupyterLab: Settings > Advanced Settings Editor > JSON Settings Editor > Jupyterlab Code Formatter > Add the following to User Preferences:<br>
 `{ "formatOnSave": true }`
+
+<Testing git submodule>
